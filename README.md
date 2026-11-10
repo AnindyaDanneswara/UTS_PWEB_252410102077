@@ -11,10 +11,10 @@ MVC, dan Blade templating tanpa database.
 - Profile pengguna
 
 ## Screenshot
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Pengelolaan](screenshots/pengelolaan.png)
-![Profile](screenshots/profile.png)
+![Login](screenshots/Login.png)
+![Dashboard](screenshots/Dashboard.png)
+![Pengelolaan](screenshots/Pengelolaan.png)
+![Profile](screenshots/Profile.png)
 
 ## Cara Menjalankan
 composer install
@@ -22,4 +22,4 @@ cp .env.example .env
 php artisan key:generate
 php artisan serve
 
-**Nama:** [Nama] | **NIM:** [NIM]
+**Nama:** Anindya Danneswara Prayogi | **NIM:** 252410102077
